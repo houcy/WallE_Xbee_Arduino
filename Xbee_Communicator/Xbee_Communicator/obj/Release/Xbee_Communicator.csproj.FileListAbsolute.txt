@@ -1,0 +1,9 @@
+D:\Software\XBee\Xbee_Communicator\Xbee_Communicator\bin\Release\Xbee_Communicator.exe.config
+D:\Software\XBee\Xbee_Communicator\Xbee_Communicator\bin\Release\Xbee_Communicator.exe
+D:\Software\XBee\Xbee_Communicator\Xbee_Communicator\bin\Release\Xbee_Communicator.pdb
+D:\Software\XBee\Xbee_Communicator\Xbee_Communicator\obj\Release\Xbee_Communicator.Properties.Resources.resources
+D:\Software\XBee\Xbee_Communicator\Xbee_Communicator\obj\Release\Xbee_Communicator.XbeeControlForm.resources
+D:\Software\XBee\Xbee_Communicator\Xbee_Communicator\obj\Release\Xbee_Communicator.csproj.GenerateResource.Cache
+D:\Software\XBee\Xbee_Communicator\Xbee_Communicator\obj\Release\Xbee_Communicator.exe
+D:\Software\XBee\Xbee_Communicator\Xbee_Communicator\obj\Release\Xbee_Communicator.pdb
+D:\Software\XBee\Xbee_Communicator\Xbee_Communicator\obj\Release\Xbee_Communicator.csprojResolveAssemblyReference.cache
